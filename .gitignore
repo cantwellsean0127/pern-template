@@ -8,7 +8,7 @@ package-lock.json
 .env
 
 # The dist directory is generated during the build process
-src/public/dist
+public/dist
 
 # The .DS_Store file contains directory settings on MacOS. This file is not part of the project.
 .DS_Store
