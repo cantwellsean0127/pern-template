@@ -1,4 +1,4 @@
-# Project Title
+# PERN Template
 Basic PERN (PostgreSQL, Express.js, React, Node.js) project template.
 
 ## Table of Contents
