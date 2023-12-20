@@ -1,9 +1,7 @@
 # Project Title
-
-Brief description of your PERN (PostgreSQL, Express.js, React, Node.js) project template.
+Basic PERN (PostgreSQL, Express.js, React, Node.js) project template.
 
 ## Table of Contents
-
 - [Introduction](#introduction)
 - [File Structure](#file-structure)
 - [Running the Server](#running-the-server)
@@ -17,7 +15,6 @@ Brief description of your PERN (PostgreSQL, Express.js, React, Node.js) project 
 - [How To Use](#how-to-use)
 
 ## Introduction
-
 This template is designed to give you a boilerplate project for any web applications using PostgreSQL, Express, React, and Node (the PERN stack).
 
 ## File Structure
@@ -58,7 +55,6 @@ To launch the server, run `npm run server`.
 To perform both actions, run `npm run start`.
 
 ## PostgreSQL
-
 Database related files can be found in the `/src/database` directory. This directory includes 4 files:
 1. `migration.sql` - This file is used to create tables and columns in your database.
 2. `seed.sql` - This file is used to seed your database tables with data.
