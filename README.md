@@ -92,4 +92,5 @@ The recommended usage for this template is as follows:
 4. Edit the `LICENSE` file to more accurately reflect your project. Even if you plan on using the MIT license as we did, you still need to change the name in the license (right now it says "Sean Cantwell").
 6. Edit the `README.md` file to more accurately reflect your project. Only do this once you become familiar with the structure of this template and no longer need this file's information.
 7. Create a `.env` file using the `.env.template` file to hold your enviroment variables.
-8. Customize your web application to fit your needs and happy coding!
+8. Edit the `.node-version` file to contain your version of Node. This can be found by running `node --version` (not including the "v").
+9. Customize your web application to fit your needs and happy coding!
