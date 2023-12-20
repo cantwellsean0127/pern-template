@@ -14,6 +14,7 @@ Brief description of your PERN (PostgreSQL, Express.js, React, Node.js) project 
 - [Static Content](#static-content)
 - [Vite Configuration](#vite-configuration)
 - [License](#license)
+- [How To Use](#how-to-use)
 
 ## Introduction
 
@@ -52,7 +53,6 @@ This template is designed to give you a boilerplate project for any web applicat
 ```
 
 ## Running the Server
-
 To build the React application into files that can be statically served, run `npm run build`.
 To launch the server, run `npm run server`.
 To perform both actions, run `npm run start`.
@@ -83,10 +83,16 @@ Static content can be found in the `/public/` directory. All of `public`'s sub-d
 As discussed earlier, the build output from vite is also meant to be statically served and can be found in the `/public/dist` directory.
 
 ## Vite Configuration
-
 The vite configuration file can be found at `/vite.config.js`. Vite's root directory is `/src/react` and the build output directory is `/public/dist` (this directory gets completely wiped before each build).
 
 ## License
-
 The license (MIT) can be found at `/LICENSE`.
 
+## How to Use
+The recommended usage for this template is as follows:
+1. Use this template to create your own PERN web application repository
+2. Run `npm install` to install all dependencies.
+3. Edit the `package.json` file to more accurately reflect your project (name, description, author, etc)
+4. Edit the `LICENSE` file to more accurately reflect your project. Even if you plan on using the MIT license as we did, you still need to change the name in the license (right now it says "Sean Cantwell").
+6. Edit the `README.md` file to more accurately reflect your project. Only do this once you become familiar with the structure of this template and no longer need this file's information.
+7. Customize your web application to fit your needs and happy coding!
