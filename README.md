@@ -73,6 +73,7 @@ React files can be found in the `/src/react` directory. These files are then bui
 
 ## Node
 Node is a JavaScript runtime enviroment that is designed to run on the back-end. A `.node-version` file is found at the project root to specify which version of Node is being used.
+This is often used by hosting services to determine which Node version to use. (We recommend using [Render](https://www.render.com))
 
 ## Static Content
 Static content can be found in the `/public/` directory. All of `public`'s sub-directories are meant to be statically served (the `public` directory itself is not). For example, media files like images, videos, etc can be found in the `/public/media` directory.
