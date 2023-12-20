@@ -86,7 +86,7 @@ The license (MIT) can be found at `/LICENSE`.
 
 ## How to Use
 The recommended usage for this template is as follows:
-1. Use this template to create your own PERN web application repository
+1. Use this template to create your own PERN web application repository.
 2. Run `npm install` to install all dependencies.
 3. Edit the `package.json` file to more accurately reflect your project (name, description, author, etc)
 4. Edit the `LICENSE` file to more accurately reflect your project. Even if you plan on using the MIT license as we did, you still need to change the name in the license (right now it says "Sean Cantwell").
