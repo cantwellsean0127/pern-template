@@ -20,13 +20,12 @@ This template is designed to give you a boilerplate project for any web applicat
 ## File Structure
 ```
 ├── LICENSE
+├── README.md
 ├── package.json
 ├── public
-│   ├── dist
 │   └── media
 │       └── images
 │           └── favicon.png
-├── README.md
 ├── src
 │   ├── database
 │   │   ├── Entity Relationship Diagram.png
@@ -35,18 +34,21 @@ This template is designed to give you a boilerplate project for any web applicat
 │   │   └── seed.sql
 │   ├── main.js
 │   ├── react
-│   │   ├── components
-│   │   │   └── App.jsx
 │   │   ├── css
 │   │   │   └── main.css
 │   │   ├── index.html
-│   │   └── react.jsx
+│   │   └── js
+│   │       ├── components
+│   │       │   └── App.jsx
+│   │       ├── react.jsx
+│   │       └── request.js
 │   └── server
 │       ├── middleware.js
 │       ├── routes.js
 │       ├── server.js
 │       └── settings.js
 └── vite.config.js
+
 ```
 
 ## Running the Server
