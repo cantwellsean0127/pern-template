@@ -12,3 +12,6 @@ public/dist
 
 # The .DS_Store file contains directory settings on MacOS. This file is not part of the project.
 .DS_Store
+
+# The .vscode directory contains configuration files for the Vistual Studio Code IDE
+.vscode
